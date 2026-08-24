@@ -4,7 +4,7 @@
     "tagline": "Sửa chữa điện lạnh tại nhà Hà Nội",
     "subtagline": "Dịch vụ sửa chữa tận nơi tại Hà Nội",
     "description": "Sửa chữa, bảo dưỡng điều hòa, máy giặt, tủ lạnh, bếp từ, lò vi sóng, bình nóng lạnh và đồ gia dụng tại nhà. Hỗ trợ tiếp nhận thông tin 24/7; thời gian kỹ thuật viên hỗ trợ phụ thuộc khu vực, lịch hẹn và điều phối thực tế.",
-    "heroImage": "/src/assets/images/hero_appliance_repair_1787236829401.jpg",
+    "heroImage": "/images/hero_appliance_repair_1787236829401.jpg",
     "hotline1": "0333429306",
     "hotline1Display": "0333.429.306",
     "hotline2": "0968904290",
@@ -62,7 +62,7 @@
       "icon": "❄️",
       "title": "Sửa điều hòa tại nhà",
       "shortDesc": "Không mát, chảy nước, kêu to, mất nguồn, thiếu gas, hỏng bo mạch, lỗi dàn nóng/dàn lạnh.",
-      "image": "/src/assets/images/hero_appliance_repair_1787236829401.jpg",
+      "image": "/images/hero_appliance_repair_1787236829401.jpg",
       "details": [
         "Kiểm tra tình trạng dàn lạnh, dàn nóng, quạt, cảm biến, bo mạch và đường thoát nước.",
         "Tư vấn phương án sửa hoặc thay linh kiện nếu cần.",
@@ -74,7 +74,7 @@
       "icon": "🔧",
       "title": "Bảo dưỡng điều hòa",
       "shortDesc": "Vệ sinh dàn nóng, dàn lạnh, kiểm tra gas, khử mùi, tối ưu hiệu suất làm lạnh và tiết kiệm điện.",
-      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg",
+      "image": "/images/ac_cleaning_service_1787236846130.jpg",
       "details": [
         "Vệ sinh lưới lọc, dàn lạnh, máng nước, ống thoát và kiểm tra dàn nóng.",
         "Phù hợp với máy dùng lâu ngày, làm lạnh yếu, có mùi hoặc chảy nước.",
@@ -86,7 +86,7 @@
       "icon": "🧺",
       "title": "Sửa máy giặt",
       "shortDesc": "Không vắt, không cấp/xả nước, rung lắc, báo lỗi, kẹt cửa, hỏng mạch, hỏng motor.",
-      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg",
+      "image": "/images/washing_machine_repair_1787236861187.jpg",
       "details": [
         "Kiểm tra van cấp, bơm xả, dây curoa, phuộc, motor, cảm biến và bo điều khiển.",
         "Nhận vệ sinh máy giặt cửa trên/cửa ngang theo tình trạng thực tế.",
@@ -98,7 +98,7 @@
       "icon": "🧊",
       "title": "Sửa tủ lạnh",
       "shortDesc": "Không lạnh, đóng tuyết, rò điện, kêu to, hỏng block, thiếu gas, hỏng cảm biến, hỏng bo.",
-      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg",
+      "image": "/images/fridge_repair_service_1787236876504.jpg",
       "details": [
         "Kiểm tra block, gas, quạt gió, cảm biến, sò lạnh, hệ thống xả đá và bo mạch.",
         "Xử lý các lỗi tủ lạnh kém lạnh, đóng tuyết, kêu to, rò nước hoặc mất nguồn.",
@@ -110,7 +110,7 @@
       "icon": "🔥",
       "title": "Sửa bếp từ",
       "shortDesc": "Không nhận nồi, mất nguồn, báo mã lỗi, tự ngắt, chập cháy linh kiện, hỏng mặt kính hoặc bo công suất.",
-      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg",
+      "image": "/images/stove_induction_repair_1787236892984.jpg",
       "details": [
         "Kiểm tra mâm từ, cảm biến, phím điều khiển, nguồn, bo công suất và mặt kính.",
         "Nhận tư vấn sửa bếp từ đơn, bếp từ đôi, bếp âm và một số dòng bếp hồng ngoại.",
@@ -122,7 +122,7 @@
       "icon": "🏠",
       "title": "Sửa đồ gia dụng khác",
       "shortDesc": "Lò vi sóng, bình nóng lạnh, máy sấy, máy hút mùi, quạt, cây nước nóng lạnh và thiết bị gia đình.",
-      "image": "/src/assets/images/microwave_repair_1787236953264.jpg",
+      "image": "/images/microwave_repair_1787236953264.jpg",
       "details": [
         "Tiếp nhận kiểm tra lò vi sóng không nóng, bình nóng lạnh không vào điện, thiết bị mất nguồn.",
         "Tư vấn theo tình trạng thực tế, model máy và linh kiện còn phù hợp.",
@@ -337,49 +337,49 @@
       "title": "Bảo dưỡng/sửa điều hòa",
       "tag": "Ảnh sửa điều hòa",
       "desc": "Kiểm tra dàn nóng & dàn lạnh tại nhà",
-      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg"
+      "image": "/images/ac_cleaning_service_1787236846130.jpg"
     },
     {
       "title": "Sửa máy giặt tại nhà",
       "tag": "Ảnh máy giặt",
       "desc": "Khắc phục rung lắc, không vắt, lỗi mạch",
-      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg"
+      "image": "/images/washing_machine_repair_1787236861187.jpg"
     },
     {
       "title": "Kiểm tra tủ lạnh",
       "tag": "Ảnh tủ lạnh",
       "desc": "Xử lý kém lạnh, đóng tuyết, nạp gas",
-      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg"
+      "image": "/images/fridge_repair_service_1787236876504.jpg"
     },
     {
       "title": "Sửa bếp từ",
       "tag": "Ảnh bếp từ",
       "desc": "Thay IC công suất, cảm biến, mâm nhiệt",
-      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg"
+      "image": "/images/stove_induction_repair_1787236892984.jpg"
     },
     {
       "title": "Dụng cụ và linh kiện",
       "tag": "Ảnh dụng cụ",
       "desc": "Đồng hồ đo, máy nén, linh kiện chính hãng",
-      "image": "/src/assets/images/technician_tools_kit_1787236911336.jpg"
+      "image": "/images/technician_tools_kit_1787236911336.jpg"
     },
     {
       "title": "Nghiệm thu, bảo hành",
       "tag": "Ảnh phiếu bảo hành",
       "desc": "Ghi phiếu bảo hành rõ ràng, chu đáo",
-      "image": "/src/assets/images/warranty_handover_1787236939572.jpg"
+      "image": "/images/warranty_handover_1787236939572.jpg"
     },
     {
       "title": "Sửa lò vi sóng",
       "tag": "Ảnh lò vi sóng",
       "desc": "Thay tụ, biến áp, phát sóng siêu tần",
-      "image": "/src/assets/images/microwave_repair_1787236953264.jpg"
+      "image": "/images/microwave_repair_1787236953264.jpg"
     },
     {
       "title": "Kiểm tra bình nóng lạnh",
       "tag": "Ảnh bình nóng lạnh",
       "desc": "Súc rửa cặn canxi, thay thanh magie",
-      "image": "/src/assets/images/water_heater_repair_1787236924030.jpg"
+      "image": "/images/water_heater_repair_1787236924030.jpg"
     }
   ],
   "reviews": [
@@ -409,37 +409,37 @@
       "thumb": "Sửa điều hòa Long Biên",
       "title": "Sửa điều hòa treo tường",
       "desc": "Khu vực Long Biên – xử lý lỗi không mát, kiểm tra gas và vệ sinh hệ thống.",
-      "image": "/src/assets/images/hero_appliance_repair_1787236829401.jpg"
+      "image": "/images/hero_appliance_repair_1787236829401.jpg"
     },
     {
       "thumb": "Bảo dưỡng Cầu Giấy",
       "title": "Bảo dưỡng điều hòa định kỳ",
       "desc": "Khu vực Cầu Giấy – vệ sinh dàn lạnh, dàn nóng, kiểm tra thoát nước.",
-      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg"
+      "image": "/images/ac_cleaning_service_1787236846130.jpg"
     },
     {
       "thumb": "Sửa máy giặt Thanh Xuân",
       "title": "Sửa máy giặt tại nhà",
       "desc": "Khu vực Thanh Xuân – xử lý lỗi không vắt, kiểm tra bơm xả và bo điều khiển.",
-      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg"
+      "image": "/images/washing_machine_repair_1787236861187.jpg"
     },
     {
       "thumb": "Sửa tủ lạnh Đống Đa",
       "title": "Sửa tủ lạnh",
       "desc": "Khu vực Đống Đa – xử lý lỗi kém lạnh, kiểm tra cảm biến và quạt dàn lạnh.",
-      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg"
+      "image": "/images/fridge_repair_service_1787236876504.jpg"
     },
     {
       "thumb": "Sửa bếp từ Hà Đông",
       "title": "Sửa bếp từ",
       "desc": "Khu vực Hà Đông – kiểm tra lỗi mất nguồn, đánh giá mạch công suất.",
-      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg"
+      "image": "/images/stove_induction_repair_1787236892984.jpg"
     },
     {
       "thumb": "Kiểm tra bình nóng lạnh Hai Bà Trưng",
       "title": "Kiểm tra bình nóng lạnh",
       "desc": "Khu vực Hai Bà Trưng – kiểm tra thanh đốt, chống giật và khả năng gia nhiệt.",
-      "image": "/src/assets/images/water_heater_repair_1787236924030.jpg"
+      "image": "/images/water_heater_repair_1787236924030.jpg"
     }
   ],
   "faqs": [
