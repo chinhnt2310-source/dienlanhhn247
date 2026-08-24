@@ -1,0 +1,6 @@
+{
+  "name": "Điện Lạnh Hà Nội 24/7",
+  "description": "Dịch vụ sửa chữa, bảo dưỡng điều hòa, máy giặt, tủ lạnh, bếp từ, bình nóng lạnh và đồ gia dụng tại nhà Hà Nội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

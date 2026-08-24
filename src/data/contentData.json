@@ -1,0 +1,511 @@
+{
+  "company": {
+    "name": "Điện Lạnh Hà Nội 24/7",
+    "tagline": "Sửa chữa điện lạnh tại nhà Hà Nội",
+    "subtagline": "Dịch vụ sửa chữa tận nơi tại Hà Nội",
+    "description": "Sửa chữa, bảo dưỡng điều hòa, máy giặt, tủ lạnh, bếp từ, lò vi sóng, bình nóng lạnh và đồ gia dụng tại nhà. Hỗ trợ tiếp nhận thông tin 24/7; thời gian kỹ thuật viên hỗ trợ phụ thuộc khu vực, lịch hẹn và điều phối thực tế.",
+    "heroImage": "/src/assets/images/hero_appliance_repair_1787236829401.jpg",
+    "hotline1": "0333429306",
+    "hotline1Display": "0333.429.306",
+    "hotline2": "0968904290",
+    "hotline2Display": "0968.904.290",
+    "zaloUrl": "https://zalo.me/0333429306",
+    "zaloDisplay": "Chat Zalo để đặt lịch",
+    "branch1": "Ngõ 62, Trâu Quỳ, Gia Lâm, Hà Nội",
+    "branch2": "90 Chùa Hà, Cầu Giấy, Hà Nội",
+    "coverage": "TP. Hà Nội và khu vực lân cận – thời gian hỗ trợ tùy khu vực, giao thông và lịch kỹ thuật viên."
+  },
+  "navLinks": [
+    { "label": "Dịch vụ", "href": "#dich-vu" },
+    { "label": "Tra cứu", "href": "#tra-cuu" },
+    { "label": "Bảng giá", "href": "#bang-gia" },
+    { "label": "Quy trình", "href": "#quy-trinh" },
+    { "label": "Khu vực", "href": "#khu-vuc" },
+    { "label": "Hình ảnh", "href": "#hinh-anh" },
+    { "label": "Công trình", "href": "#cong-trinh" },
+    { "label": "Đánh giá", "href": "#danh-gia" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Minh bạch", "href": "#minh-bach" },
+    { "label": "Liên hệ", "href": "#lien-he" }
+  ],
+  "trustPills": [
+    "Báo chi phí trước khi sửa",
+    "Bảo hành theo hạng mục",
+    "Dịch vụ tại nhà khu vực Hà Nội",
+    "Tiếp nhận thông tin 24/7"
+  ],
+  "quickBenefits": [
+    {
+      "icon": "✅",
+      "title": "Tư vấn minh bạch",
+      "desc": "Tiếp nhận lỗi thiết bị, tư vấn hướng xử lý trước khi triển khai."
+    },
+    {
+      "icon": "💵",
+      "title": "Bảng giá rõ ràng",
+      "desc": "Có giá tham khảo theo từng nhóm dịch vụ, báo chi phí trước khi sửa."
+    },
+    {
+      "icon": "🔧",
+      "title": "Kỹ thuật viên chuyên môn",
+      "desc": "Hỗ trợ điều hòa, máy giặt, tủ lạnh, bếp từ, lò vi sóng và đồ gia dụng."
+    },
+    {
+      "icon": "🧾",
+      "title": "Bảo hành theo hạng mục",
+      "desc": "Thời gian bảo hành có thể từ 6 tháng đến 2 năm tùy dịch vụ và linh kiện."
+    }
+  ],
+  "services": [
+    {
+      "id": "detail-dieu-hoa",
+      "icon": "❄️",
+      "title": "Sửa điều hòa tại nhà",
+      "shortDesc": "Không mát, chảy nước, kêu to, mất nguồn, thiếu gas, hỏng bo mạch, lỗi dàn nóng/dàn lạnh.",
+      "image": "/src/assets/images/hero_appliance_repair_1787236829401.jpg",
+      "details": [
+        "Kiểm tra tình trạng dàn lạnh, dàn nóng, quạt, cảm biến, bo mạch và đường thoát nước.",
+        "Tư vấn phương án sửa hoặc thay linh kiện nếu cần.",
+        "Báo chi phí trước khi thực hiện, khách đồng ý mới làm."
+      ]
+    },
+    {
+      "id": "detail-bao-duong",
+      "icon": "🔧",
+      "title": "Bảo dưỡng điều hòa",
+      "shortDesc": "Vệ sinh dàn nóng, dàn lạnh, kiểm tra gas, khử mùi, tối ưu hiệu suất làm lạnh và tiết kiệm điện.",
+      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg",
+      "details": [
+        "Vệ sinh lưới lọc, dàn lạnh, máng nước, ống thoát và kiểm tra dàn nóng.",
+        "Phù hợp với máy dùng lâu ngày, làm lạnh yếu, có mùi hoặc chảy nước.",
+        "Khuyến nghị bảo dưỡng định kỳ để máy chạy ổn định hơn."
+      ]
+    },
+    {
+      "id": "detail-may-giat",
+      "icon": "🧺",
+      "title": "Sửa máy giặt",
+      "shortDesc": "Không vắt, không cấp/xả nước, rung lắc, báo lỗi, kẹt cửa, hỏng mạch, hỏng motor.",
+      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg",
+      "details": [
+        "Kiểm tra van cấp, bơm xả, dây curoa, phuộc, motor, cảm biến và bo điều khiển.",
+        "Nhận vệ sinh máy giặt cửa trên/cửa ngang theo tình trạng thực tế.",
+        "Báo rõ hạng mục sửa và linh kiện cần thay trước khi làm."
+      ]
+    },
+    {
+      "id": "detail-tu-lanh",
+      "icon": "🧊",
+      "title": "Sửa tủ lạnh",
+      "shortDesc": "Không lạnh, đóng tuyết, rò điện, kêu to, hỏng block, thiếu gas, hỏng cảm biến, hỏng bo.",
+      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg",
+      "details": [
+        "Kiểm tra block, gas, quạt gió, cảm biến, sò lạnh, hệ thống xả đá và bo mạch.",
+        "Xử lý các lỗi tủ lạnh kém lạnh, đóng tuyết, kêu to, rò nước hoặc mất nguồn.",
+        "Chi phí phụ thuộc dung tích, dòng tủ và linh kiện cần thay."
+      ]
+    },
+    {
+      "id": "detail-bep-tu",
+      "icon": "🔥",
+      "title": "Sửa bếp từ",
+      "shortDesc": "Không nhận nồi, mất nguồn, báo mã lỗi, tự ngắt, chập cháy linh kiện, hỏng mặt kính hoặc bo công suất.",
+      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg",
+      "details": [
+        "Kiểm tra mâm từ, cảm biến, phím điều khiển, nguồn, bo công suất và mặt kính.",
+        "Nhận tư vấn sửa bếp từ đơn, bếp từ đôi, bếp âm và một số dòng bếp hồng ngoại.",
+        "Chỉ thay linh kiện khi khách đồng ý sau khi báo giá."
+      ]
+    },
+    {
+      "id": "detail-gia-dung",
+      "icon": "🏠",
+      "title": "Sửa đồ gia dụng khác",
+      "shortDesc": "Lò vi sóng, bình nóng lạnh, máy sấy, máy hút mùi, quạt, cây nước nóng lạnh và thiết bị gia đình.",
+      "image": "/src/assets/images/microwave_repair_1787236953264.jpg",
+      "details": [
+        "Tiếp nhận kiểm tra lò vi sóng không nóng, bình nóng lạnh không vào điện, thiết bị mất nguồn.",
+        "Tư vấn theo tình trạng thực tế, model máy và linh kiện còn phù hợp.",
+        "Có thể gửi ảnh/video lỗi qua Zalo để tư vấn ban đầu."
+      ]
+    }
+  ],
+  "quickLookups": [
+    {
+      "id": "lookup-ac",
+      "icon": "❄️",
+      "title": "Lỗi điều hòa thường gặp",
+      "desc": "Không mát, chảy nước, kêu to, mất nguồn, báo lỗi, thiếu gas, bám tuyết.",
+      "details": [
+        "Nguyên nhân thường gặp: bẩn dàn lạnh, tắc thoát nước, thiếu gas, lỗi cảm biến, lỗi bo mạch.",
+        "Nên tắt máy nếu có mùi khét, rò nước nhiều hoặc aptomat nhảy liên tục.",
+        "Gọi hotline để được tư vấn trước khi kỹ thuật viên đến kiểm tra."
+      ]
+    },
+    {
+      "id": "lookup-clean",
+      "icon": "🔧",
+      "title": "Bảo dưỡng điều hòa định kỳ",
+      "desc": "Vệ sinh dàn lạnh, dàn nóng, kiểm tra gas, khử mùi, giúp máy mát sâu và tiết kiệm điện.",
+      "details": [
+        "Nên vệ sinh định kỳ nếu máy dùng thường xuyên, phòng nhiều bụi hoặc có mùi.",
+        "Bảo dưỡng giúp giảm chảy nước, giảm mùi và hạn chế bụi bẩn bám dàn lạnh.",
+        "Chi phí tùy số lượng máy, vị trí lắp đặt và loại máy treo tường/âm trần."
+      ]
+    },
+    {
+      "id": "lookup-washer",
+      "icon": "🧺",
+      "title": "Lỗi máy giặt thường gặp",
+      "desc": "Không vắt, không xả nước, rung lắc, kẹt cửa, không cấp nước, lỗi bo mạch.",
+      "details": [
+        "Kiểm tra nhanh: nguồn điện, vòi nước, ống xả, lượng quần áo và nắp/cửa máy.",
+        "Nếu máy báo mã lỗi, nên chụp lại màn hình lỗi để gửi Zalo.",
+        "Kỹ thuật viên sẽ kiểm tra bơm xả, van cấp, motor, phuộc và bo điều khiển."
+      ]
+    },
+    {
+      "id": "lookup-fridge",
+      "icon": "🧊",
+      "title": "Lỗi tủ lạnh thường gặp",
+      "desc": "Không lạnh, ngăn đá không đông, đóng tuyết, kêu to, rò điện, hỏng block, thiếu gas.",
+      "details": [
+        "Không tự cạy đá bằng vật sắc nhọn vì có thể thủng dàn lạnh.",
+        "Nguyên nhân có thể do gioăng cửa, quạt gió, cảm biến, xả đá, block hoặc gas.",
+        "Chi phí sửa phụ thuộc dung tích tủ, dòng inverter/thường và linh kiện."
+      ]
+    },
+    {
+      "id": "lookup-stove",
+      "icon": "🔥",
+      "title": "Lỗi bếp từ / bếp hồng ngoại",
+      "desc": "Không nhận nồi, mất nguồn, báo lỗi, tự ngắt, chập cháy linh kiện, hỏng mặt kính.",
+      "details": [
+        "Không nên tiếp tục dùng nếu có mùi khét, nổ linh kiện hoặc mặt kính nứt.",
+        "Kỹ thuật viên kiểm tra nguồn, mâm từ, cảm biến, quạt, bo công suất và mặt kính.",
+        "Báo giá theo model bếp và loại linh kiện cần sửa/thay."
+      ]
+    },
+    {
+      "id": "lookup-other",
+      "icon": "🏠",
+      "title": "Sửa đồ gia dụng khác",
+      "desc": "Lò vi sóng, bình nóng lạnh, máy sấy, máy hút mùi, thiết bị nhà bếp và đồ điện tử gia đình.",
+      "details": [
+        "Có thể tư vấn ban đầu qua ảnh/video tình trạng thiết bị.",
+        "Các lỗi thường gặp: mất nguồn, không nóng, không chạy, báo lỗi, rò điện.",
+        "Hạng mục sửa phụ thuộc model và tình trạng linh kiện thực tế."
+      ]
+    },
+    {
+      "id": "lookup-price",
+      "icon": "💵",
+      "title": "Quy trình báo giá",
+      "desc": "Kiểm tra tình trạng, báo hạng mục cần sửa/thay và chi phí trước khi thực hiện.",
+      "details": [
+        "Bảng giá trên web là giá tham khảo, không phải mức cố định cho mọi trường hợp.",
+        "Kỹ thuật viên báo chi phí sau khi kiểm tra tình trạng thực tế.",
+        "Nếu phát sinh hạng mục mới, phải thông báo lại để khách quyết định."
+      ]
+    },
+    {
+      "id": "lookup-warranty",
+      "icon": "🧾",
+      "title": "Bảo hành dịch vụ",
+      "desc": "Bảo hành theo hạng mục sửa chữa, loại linh kiện thay thế và tình trạng thực tế.",
+      "details": [
+        "Thời gian bảo hành có thể từ 6 tháng đến 2 năm tùy dịch vụ và linh kiện.",
+        "Nội dung bảo hành cần được ghi nhận sau khi nghiệm thu.",
+        "Bảo hành không áp dụng cho lỗi mới phát sinh ngoài hạng mục đã sửa nếu không liên quan."
+      ]
+    },
+    {
+      "id": "lookup-area",
+      "icon": "📍",
+      "title": "Khu vực phục vụ",
+      "desc": "Nội thành Hà Nội và các quận lân cận, hỗ trợ theo lịch hẹn và điều phối kỹ thuật viên.",
+      "details": [
+        "Hỗ trợ Ba Đình, Hoàn Kiếm, Đống Đa, Cầu Giấy, Thanh Xuân, Hai Bà Trưng, Long Biên, Hà Đông và nhiều khu vực khác.",
+        "Thời gian kỹ thuật viên đến phụ thuộc khu vực, giao thông và lịch điều phối.",
+        "Khách có thể gọi trực tiếp hai hotline chính hoặc chat Zalo để đặt lịch."
+      ]
+    }
+  ],
+  "priceTables": [
+    {
+      "category": "1. Bảng giá sửa chữa, bảo dưỡng điều hòa",
+      "target": "điều hòa",
+      "items": [
+        { "name": "Kiểm tra tình trạng điều hòa", "price": "Miễn phí khi sử dụng dịch vụ", "note": "Tư vấn lỗi và phương án xử lý" },
+        { "name": "Vệ sinh điều hòa treo tường", "price": "150.000đ – 250.000đ/máy", "note": "Tùy công suất, độ bẩn, vị trí máy" },
+        { "name": "Vệ sinh điều hòa âm trần/tủ đứng", "price": "350.000đ – 700.000đ/máy", "note": "Tùy loại máy và vị trí lắp đặt" },
+        { "name": "Điều hòa không mát/kém lạnh", "price": "Từ 250.000đ", "note": "Báo sau khi kiểm tra nguyên nhân" },
+        { "name": "Điều hòa chảy nước", "price": "Từ 200.000đ", "note": "Vệ sinh, thông tắc, xử lý máng nước/ống thoát" },
+        { "name": "Điều hòa kêu to/rung mạnh", "price": "Từ 250.000đ", "note": "Kiểm tra quạt, bạc đạn, dàn nóng/dàn lạnh" },
+        { "name": "Bổ sung/nạp gas điều hòa", "price": "Báo theo loại gas", "note": "R22, R32, R410A" },
+        { "name": "Sửa bo mạch điều hòa", "price": "Báo sau kiểm tra", "note": "Theo dòng máy và lỗi mạch" },
+        { "name": "Thay tụ/quạt/cảm biến", "price": "Báo theo linh kiện", "note": "Khách đồng ý mới thay" }
+      ]
+    },
+    {
+      "category": "2. Bảng giá sửa máy giặt",
+      "target": "máy giặt",
+      "items": [
+        { "name": "Kiểm tra tình trạng máy giặt", "price": "Miễn phí khi sử dụng dịch vụ", "note": "Báo lỗi trước khi sửa" },
+        { "name": "Vệ sinh máy giặt cửa trên", "price": "300.000đ – 450.000đ", "note": "Tùy dung tích và độ bẩn" },
+        { "name": "Vệ sinh máy giặt cửa ngang", "price": "450.000đ – 700.000đ", "note": "Tùy model" },
+        { "name": "Máy giặt không vắt", "price": "Từ 250.000đ", "note": "Kiểm tra dây curoa, motor, board, cảm biến" },
+        { "name": "Máy giặt không cấp/xả nước", "price": "Từ 250.000đ", "note": "Kiểm tra van cấp, bơm xả, đường nước" },
+        { "name": "Máy giặt rung lắc/kêu to", "price": "Từ 300.000đ", "note": "Kiểm tra phuộc, bạc đạn, chân máy" },
+        { "name": "Máy giặt báo lỗi/không chạy", "price": "Từ 300.000đ", "note": "Tùy mã lỗi và model" },
+        { "name": "Sửa/thay bo mạch, motor, van cấp", "price": "Báo theo linh kiện", "note": "Khách đồng ý mới thay" }
+      ]
+    },
+    {
+      "category": "3. Bảng giá sửa tủ lạnh",
+      "target": "tủ lạnh",
+      "items": [
+        { "name": "Kiểm tra tình trạng tủ lạnh", "price": "Miễn phí khi sử dụng dịch vụ", "note": "Kiểm tra lạnh, điện, block, bo mạch" },
+        { "name": "Tủ lạnh không lạnh/kém lạnh", "price": "Từ 300.000đ", "note": "Tùy nguyên nhân" },
+        { "name": "Tủ lạnh đóng tuyết/rò nước", "price": "Từ 250.000đ", "note": "Kiểm tra xả đá, thoát nước" },
+        { "name": "Tủ lạnh kêu to", "price": "Từ 300.000đ", "note": "Kiểm tra quạt, block, chân kê" },
+        { "name": "Thay cảm biến/sò lạnh/timer", "price": "Từ 350.000đ", "note": "Theo linh kiện" },
+        { "name": "Nạp gas tủ lạnh", "price": "Báo theo dung tích", "note": "Tùy loại gas và dung tích tủ" },
+        { "name": "Sửa/thay block hoặc bo mạch", "price": "Báo sau kiểm tra", "note": "Hạng mục kỹ thuật cao" }
+      ]
+    },
+    {
+      "category": "4. Bảng giá sửa bếp từ, lò vi sóng, bình nóng lạnh và đồ gia dụng",
+      "target": "đồ gia dụng",
+      "items": [
+        { "name": "Kiểm tra bếp từ/đồ gia dụng", "price": "Miễn phí khi sử dụng dịch vụ", "note": "Tư vấn lỗi trước khi sửa" },
+        { "name": "Bếp từ mất nguồn/báo lỗi", "price": "Từ 300.000đ", "note": "Tùy lỗi bo công suất" },
+        { "name": "Bếp từ không nhận nồi", "price": "Từ 250.000đ", "note": "Kiểm tra mâm từ, cảm biến, bo mạch" },
+        { "name": "Thay mặt kính bếp từ", "price": "Báo theo model", "note": "Theo kích thước và loại kính" },
+        { "name": "Lò vi sóng không nóng", "price": "Từ 250.000đ", "note": "Kiểm tra biến áp, tụ, diode, magnetron" },
+        { "name": "Bình nóng lạnh không vào điện/không nóng", "price": "Từ 250.000đ", "note": "Kiểm tra thanh đốt, chống giật, thermostat" },
+        { "name": "Máy lọc nước, máy nước nóng, đồ gia dụng khác", "price": "Báo sau kiểm tra", "note": "Theo lỗi thực tế và linh kiện" }
+      ]
+    }
+  ],
+  "processSteps": [
+    {
+      "step": "1",
+      "title": "Tiếp nhận yêu cầu",
+      "desc": "Khách gọi hotline, chat Zalo hoặc gửi form đặt lịch."
+    },
+    {
+      "step": "2",
+      "title": "Điều phối kỹ thuật",
+      "desc": "Kỹ thuật viên tiếp nhận thông tin, có mặt theo khu vực và lịch hẹn."
+    },
+    {
+      "step": "3",
+      "title": "Kiểm tra thiết bị",
+      "desc": "Kiểm tra thiết bị, đánh giá tình trạng hư hỏng và nguyên nhân thực tế."
+    },
+    {
+      "step": "4",
+      "title": "Báo giá rõ ràng",
+      "desc": "Báo rõ hạng mục cần sửa/thay, khách đồng ý mới tiến hành."
+    },
+    {
+      "step": "5",
+      "title": "Nghiệm thu & bảo hành",
+      "desc": "Nghiệm thu, bàn giao thiết bị và viết thông tin bảo hành theo hạng mục."
+    }
+  ],
+  "serviceAreas": [
+    "Ba Đình",
+    "Hoàn Kiếm",
+    "Đống Đa",
+    "Cầu Giấy",
+    "Thanh Xuân",
+    "Hai Bà Trưng",
+    "Hoàng Mai",
+    "Tây Hồ",
+    "Long Biên",
+    "Hà Đông",
+    "Nam Từ Liêm",
+    "Bắc Từ Liêm",
+    "Gia Lâm",
+    "Đông Anh",
+    "Hoài Đức"
+  ],
+  "gallery": [
+    {
+      "title": "Bảo dưỡng/sửa điều hòa",
+      "tag": "Ảnh sửa điều hòa",
+      "desc": "Kiểm tra dàn nóng & dàn lạnh tại nhà",
+      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg"
+    },
+    {
+      "title": "Sửa máy giặt tại nhà",
+      "tag": "Ảnh máy giặt",
+      "desc": "Khắc phục rung lắc, không vắt, lỗi mạch",
+      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg"
+    },
+    {
+      "title": "Kiểm tra tủ lạnh",
+      "tag": "Ảnh tủ lạnh",
+      "desc": "Xử lý kém lạnh, đóng tuyết, nạp gas",
+      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg"
+    },
+    {
+      "title": "Sửa bếp từ",
+      "tag": "Ảnh bếp từ",
+      "desc": "Thay IC công suất, cảm biến, mâm nhiệt",
+      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg"
+    },
+    {
+      "title": "Dụng cụ và linh kiện",
+      "tag": "Ảnh dụng cụ",
+      "desc": "Đồng hồ đo, máy nén, linh kiện chính hãng",
+      "image": "/src/assets/images/technician_tools_kit_1787236911336.jpg"
+    },
+    {
+      "title": "Nghiệm thu, bảo hành",
+      "tag": "Ảnh phiếu bảo hành",
+      "desc": "Ghi phiếu bảo hành rõ ràng, chu đáo",
+      "image": "/src/assets/images/warranty_handover_1787236939572.jpg"
+    },
+    {
+      "title": "Sửa lò vi sóng",
+      "tag": "Ảnh lò vi sóng",
+      "desc": "Thay tụ, biến áp, phát sóng siêu tần",
+      "image": "/src/assets/images/microwave_repair_1787236953264.jpg"
+    },
+    {
+      "title": "Kiểm tra bình nóng lạnh",
+      "tag": "Ảnh bình nóng lạnh",
+      "desc": "Súc rửa cặn canxi, thay thanh magie",
+      "image": "/src/assets/images/water_heater_repair_1787236924030.jpg"
+    }
+  ],
+  "reviews": [
+    { "text": "Điều hòa không mát, thợ kiểm tra kỹ và báo chi phí trước khi sửa.", "author": "Anh Minh - Long Biên", "rating": 5 },
+    { "text": "Bảo dưỡng điều hòa sạch sẽ, làm gọn, tư vấn dễ hiểu.", "author": "Chị Hạnh - Cầu Giấy", "rating": 5 },
+    { "text": "Điều hòa chảy nước được xử lý ổn, không phát sinh bất ngờ.", "author": "Anh Sơn - Đống Đa", "rating": 5 },
+    { "text": "Gửi ảnh qua Zalo, được tư vấn trước rồi mới đặt lịch.", "author": "Chị Ngọc - Thanh Xuân", "rating": 5 },
+    { "text": "Máy lạnh kêu to, kỹ thuật viên kiểm tra dàn nóng và xử lý rõ ràng.", "author": "Anh Quang - Tây Hồ", "rating": 5 },
+    { "text": "Máy giặt không vắt, thợ kiểm tra bo và bơm xả rồi báo giá.", "author": "Anh Tuấn - Hoàng Mai", "rating": 5 },
+    { "text": "Máy giặt rung mạnh được căn chỉnh và vệ sinh lại.", "author": "Chị Mai - Hà Đông", "rating": 5 },
+    { "text": "Máy giặt cửa ngang có mùi, vệ sinh xong chạy êm hơn.", "author": "Chị Lan - Hai Bà Trưng", "rating": 5 },
+    { "text": "Đặt lịch sửa máy giặt nhanh, thái độ làm việc ổn.", "author": "Anh Đức - Nam Từ Liêm", "rating": 5 },
+    { "text": "Tủ lạnh không lạnh, kỹ thuật viên giải thích nguyên nhân rõ ràng.", "author": "Chị Phương - Hoàn Kiếm", "rating": 5 },
+    { "text": "Tủ lạnh đóng tuyết, xử lý xong có hướng dẫn dùng đúng cách.", "author": "Anh Hải - Gia Lâm", "rating": 5 },
+    { "text": "Tủ lạnh kêu to, thợ kiểm tra quạt và chân kê rất kỹ.", "author": "Cô Vân - Bắc Từ Liêm", "rating": 5 },
+    { "text": "Có phiếu ghi nhận hạng mục sửa và bảo hành.", "author": "Anh Nam - Đông Anh", "rating": 5 },
+    { "text": "Bếp từ báo lỗi, được tư vấn phương án sửa trước khi làm.", "author": "Chị Hà - Cầu Giấy", "rating": 5 },
+    { "text": "Bếp từ không nhận nồi, kiểm tra mạch cẩn thận.", "author": "Anh Tùng - Long Biên", "rating": 5 },
+    { "text": "Sửa bếp từ gọn, giải thích rõ phần linh kiện cần thay.", "author": "Chị Thảo - Thanh Xuân", "rating": 5 },
+    { "text": "Lò vi sóng không nóng, kiểm tra đúng lỗi rồi báo giá.", "author": "Anh Khoa - Đống Đa", "rating": 5 },
+    { "text": "Bình nóng lạnh không vào điện, kỹ thuật viên xử lý cẩn thận.", "author": "Chị Linh - Hà Đông", "rating": 5 },
+    { "text": "Quy trình báo giá rõ, khách đồng ý mới tiến hành.", "author": "Anh Dũng - Hà Nội", "rating": 5 },
+    { "text": "Thái độ tư vấn tốt, thông tin liên hệ rõ ràng.", "author": "Chị Hương - Hà Nội", "rating": 5 }
+  ],
+  "projects": [
+    {
+      "thumb": "Sửa điều hòa Long Biên",
+      "title": "Sửa điều hòa treo tường",
+      "desc": "Khu vực Long Biên – xử lý lỗi không mát, kiểm tra gas và vệ sinh hệ thống.",
+      "image": "/src/assets/images/hero_appliance_repair_1787236829401.jpg"
+    },
+    {
+      "thumb": "Bảo dưỡng Cầu Giấy",
+      "title": "Bảo dưỡng điều hòa định kỳ",
+      "desc": "Khu vực Cầu Giấy – vệ sinh dàn lạnh, dàn nóng, kiểm tra thoát nước.",
+      "image": "/src/assets/images/ac_cleaning_service_1787236846130.jpg"
+    },
+    {
+      "thumb": "Sửa máy giặt Thanh Xuân",
+      "title": "Sửa máy giặt tại nhà",
+      "desc": "Khu vực Thanh Xuân – xử lý lỗi không vắt, kiểm tra bơm xả và bo điều khiển.",
+      "image": "/src/assets/images/washing_machine_repair_1787236861187.jpg"
+    },
+    {
+      "thumb": "Sửa tủ lạnh Đống Đa",
+      "title": "Sửa tủ lạnh",
+      "desc": "Khu vực Đống Đa – xử lý lỗi kém lạnh, kiểm tra cảm biến và quạt dàn lạnh.",
+      "image": "/src/assets/images/fridge_repair_service_1787236876504.jpg"
+    },
+    {
+      "thumb": "Sửa bếp từ Hà Đông",
+      "title": "Sửa bếp từ",
+      "desc": "Khu vực Hà Đông – kiểm tra lỗi mất nguồn, đánh giá mạch công suất.",
+      "image": "/src/assets/images/stove_induction_repair_1787236892984.jpg"
+    },
+    {
+      "thumb": "Kiểm tra bình nóng lạnh Hai Bà Trưng",
+      "title": "Kiểm tra bình nóng lạnh",
+      "desc": "Khu vực Hai Bà Trưng – kiểm tra thanh đốt, chống giật và khả năng gia nhiệt.",
+      "image": "/src/assets/images/water_heater_repair_1787236924030.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Có báo giá trước khi sửa không?",
+      "a": "Có. Kỹ thuật viên kiểm tra tình trạng, tư vấn phương án và báo chi phí trước khi thực hiện."
+    },
+    {
+      "q": "Giá trên bảng giá có cố định không?",
+      "a": "Không. Đây là giá tham khảo. Chi phí thực tế phụ thuộc model thiết bị, lỗi, vị trí thi công và linh kiện cần thay."
+    },
+    {
+      "q": "Dịch vụ có bảo hành không?",
+      "a": "Có. Bảo hành theo từng hạng mục sửa chữa và linh kiện thay thế; thời gian có thể từ 6 tháng đến 2 năm tùy dịch vụ."
+    },
+    {
+      "q": "Có thể gửi ảnh lỗi qua Zalo không?",
+      "a": "Có. Khách hàng gửi ảnh/video qua Chat Zalo để được tư vấn ban đầu."
+    },
+    {
+      "q": "Có phục vụ các quận ngoài Long Biên không?",
+      "a": "Có. Dịch vụ hỗ trợ nhiều khu vực tại Hà Nội theo lịch hẹn và khả năng điều phối kỹ thuật viên."
+    }
+  ],
+  "policies": [
+    {
+      "title": "Thông tin đơn vị",
+      "content": [
+        "Tên đơn vị: Điện Lạnh Hà Nội 24/7",
+        "Dịch vụ: sửa chữa, bảo dưỡng thiết bị điện lạnh và đồ gia dụng tại nhà.",
+        "Khu vực phục vụ: Hà Nội và khu vực lân cận.",
+        "Hotline 1: 0333429306",
+        "Hotline 2: 0968904290",
+        "Chat Zalo để đặt lịch: 0333429306",
+        "Cơ sở 1: Ngõ 62, Trâu Quỳ, Gia Lâm, Hà Nội. Cơ sở 2: 90 Chùa Hà, Cầu Giấy, Hà Nội."
+      ]
+    },
+    {
+      "title": "Quy trình báo giá",
+      "content": [
+        "Kỹ thuật viên kiểm tra tình trạng thực tế, tư vấn phương án xử lý và báo giá trước khi sửa. Khách hàng đồng ý mới tiến hành. Nếu phát sinh hạng mục mới, kỹ thuật viên phải thông báo lại để khách quyết định."
+      ]
+    },
+    {
+      "title": "Chính sách bảo mật thông tin",
+      "content": [
+        "Thông tin khách hàng gửi qua form, cuộc gọi hoặc Zalo chỉ dùng để tư vấn, đặt lịch, điều phối kỹ thuật viên và hỗ trợ bảo hành. Chúng tôi không yêu cầu khách cung cấp mật khẩu, mã OTP, thông tin thẻ ngân hàng hoặc dữ liệu nhạy cảm trên website."
+      ]
+    },
+    {
+      "title": "Quy chế tiếp nhận khiếu nại",
+      "content": [
+        "Khách hàng có thể liên hệ hotline chính 0333429306 hoặc 0968904290 để phản ánh về chất lượng dịch vụ, chi phí, thái độ phục vụ hoặc bảo hành. Chúng tôi tiếp nhận thông tin và phản hồi theo từng trường hợp cụ thể."
+      ]
+    },
+    {
+      "title": "Điều khoản dịch vụ",
+      "content": [
+        "Bảng giá trên website là mức tham khảo. Chi phí thực tế phụ thuộc model, tình trạng thiết bị, vị trí lắp đặt, vật tư và linh kiện cần thay. Mọi hạng mục sửa chữa chỉ được thực hiện sau khi khách hàng đồng ý."
+      ]
+    },
+    {
+      "title": "Chính sách bảo hành",
+      "content": [
+        "Bảo hành được áp dụng tùy hạng mục sửa chữa, loại linh kiện thay thế và tình trạng thực tế của thiết bị. Nội dung bảo hành được thông báo rõ trước hoặc sau khi nghiệm thu dịch vụ."
+      ]
+    }
+  ]
+}
