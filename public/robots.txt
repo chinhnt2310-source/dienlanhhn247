@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dienlanhn247.com.vn/sitemap.xml
